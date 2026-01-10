@@ -5,9 +5,10 @@
 </div>
 <!--
 
-<div> 
-  <a href = "mailto:fsilvacerqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<a href="mailto:fsilvacerqueira@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 Here are some ideas to get you started:
 
